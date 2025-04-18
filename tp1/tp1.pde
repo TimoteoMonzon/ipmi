@@ -1,3 +1,7 @@
+//tp1
+//Timoteo Monzón
+//Comisión 4
+
 PImage odin;
 void setup() {
   size(800, 400);
